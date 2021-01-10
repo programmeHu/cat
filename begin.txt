@@ -1,2 +1,2 @@
-hi,git!
-good boy!
+Hi,Git!
+Good Boy!
